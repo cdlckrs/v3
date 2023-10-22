@@ -1,0 +1,2127 @@
+{
+    "records": [
+        {
+            "id": "recGfPWXvx0XQM0iV",
+            "createdTime": "2023-10-07T23:55:27.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Chelbeca Hill"
+                ],
+                "cardContactEmail !public": "sales@thefictif.com",
+                "cardContactAgencyGroup !public": "The Imité Team",
+                "* pageSlug": "thefictif",
+                "cardPropertyTagsCity": [
+                    "Manhattopolis"
+                ],
+                "cardPropertyName": "the fictif",
+                "cardContactAgency !public": [
+                    "Fauxgency"
+                ],
+                "cardPropertyWebsite": "thefictif.com",
+                "cardPropertyLocationAddress": "1001 Gramerslope Row, New York, NY 10000",
+                "* chatBase{ID}": "F23JSKmxE0igYy3epnhkk",
+                "cardPropertyNeighborhood [fx]": "Chelbeca Hill, Manhattopolis",
+                "* cardPropertyName{Parameter}ID [fx]": "thefictif",
+                "* cardPropertyName{Parameter}Url [fx]": "the%20fictif",
+                "* propertyID [fx]": "the fictif {'property_identifier': 'recGfPWXvx0XQM0iV'}"
+            }
+        },
+        {
+            "id": "rec7zskohm8GXZzmz",
+            "createdTime": "2023-08-14T05:26:15.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "SoHo"
+                ],
+                "cardContactEmail !public": "everly@serhant.com",
+                "cardContactAgencyGroup !public": "The Bogard New York Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Everly",
+                "cardContactAgency !public": [
+                    "Serhant"
+                ],
+                "cardPropertyWebsite": "everly-westsoho.com",
+                "cardPropertyLocationAddress": "219 Hudson Street, New York, NY 10013",
+                "cardPropertyNeighborhood [fx]": "SoHo, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Everly",
+                "* cardPropertyName{Parameter}Url [fx]": "Everly",
+                "* propertyID [fx]": "Everly {'property_identifier': 'rec7zskohm8GXZzmz'}"
+            }
+        },
+        {
+            "id": "recYmGRcelg4DV4KY",
+            "createdTime": "2023-08-16T03:06:46.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Carnegie Hill"
+                ],
+                "cardContactEmail !public": "info@180e88.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "180 East 88th Street",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "180e88.com",
+                "cardPropertyLocationAddress": "180 East 88th Street, New York, NY 10128",
+                "cardPropertyNeighborhood [fx]": "Carnegie Hill, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "180East88thStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "180%20East%2088th%20Street",
+                "* propertyID [fx]": "180 East 88th Street {'property_identifier': 'recYmGRcelg4DV4KY'}"
+            }
+        },
+        {
+            "id": "recy0Rh5AdsKyjkN0",
+            "createdTime": "2023-08-14T00:53:54.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Chelsea"
+                ],
+                "cardContactEmail !public": "sales@maverickchelsea.com",
+                "cardContactAgencyGroup !public": "The Eklund ǀ Gomes Team",
+                "cardPropertyDescription": "215 West 28th Street, New York, NY 10001\n\nsales@maverickchelsea.com\n[maverickchelsea.com](https://maverickchelsea.com)\n(212) 967-0215\n\nThe Eklund ǀ Gomes Team\nDouglas Elliman\n",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Maverick",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "maverickchelsea.com",
+                "cardPropertyLocationAddress": "215 West 28th Street, New York NY 10001",
+                "cardPropertyNeighborhood [fx]": "Chelsea, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Maverick",
+                "* cardPropertyName{Parameter}Url [fx]": "Maverick",
+                "* propertyID [fx]": "Maverick {'property_identifier': 'recy0Rh5AdsKyjkN0'}"
+            }
+        },
+        {
+            "id": "recqMYTBCbbWlMjw3",
+            "createdTime": "2023-08-16T02:05:52.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Downtown Brooklyn"
+                ],
+                "cardContactEmail !public": "info@11hoytbrooklyn.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "11 Hoyt",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "11hoytbrooklyn.com",
+                "cardPropertyLocationAddress": "11 Hoyt Street, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "Downtown Brooklyn, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "11Hoyt",
+                "* cardPropertyName{Parameter}Url [fx]": "11%20Hoyt",
+                "* propertyID [fx]": "11 Hoyt {'property_identifier': 'recqMYTBCbbWlMjw3'}"
+            }
+        },
+        {
+            "id": "rec5c3l3t0AFCG1H4",
+            "createdTime": "2023-08-15T04:40:13.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Downtown Brooklyn"
+                ],
+                "cardContactEmail !public": "sales@thebrooklyntower.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "The Brooklyn Tower",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "thebrooklyntower.com",
+                "cardPropertyLocationAddress": "354 Flatbush Avenue Extension, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "Downtown Brooklyn, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "TheBrooklynTower",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Brooklyn%20Tower",
+                "* propertyID [fx]": "The Brooklyn Tower {'property_identifier': 'rec5c3l3t0AFCG1H4'}"
+            }
+        },
+        {
+            "id": "recZhkZerKvHP6kxc",
+            "createdTime": "2023-08-15T06:55:01.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "West Chelsea"
+                ],
+                "cardContactEmail !public": "info@onehighlineresidences.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "One High Line",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "onehighlineresidences.com",
+                "cardPropertyLocationAddress": "500 West 18th Street, New York, NY 10011",
+                "cardPropertyNeighborhood [fx]": "West Chelsea, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "OneHighLine",
+                "* cardPropertyName{Parameter}Url [fx]": "One%20High%20Line",
+                "* propertyID [fx]": "One High Line {'property_identifier': 'recZhkZerKvHP6kxc'}"
+            }
+        },
+        {
+            "id": "recBZkBm19A4HHbkg",
+            "createdTime": "2023-08-15T06:01:09.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Yorkville"
+                ],
+                "cardContactEmail !public": "sales@theharpernyc.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Harper",
+                "cardContactAgency !public": [
+                    "CORE"
+                ],
+                "cardPropertyWebsite": "theharpernyc.com",
+                "cardPropertyLocationAddress": "310 E 86th Street New York, NY 10028 ",
+                "cardPropertyNeighborhood [fx]": "Yorkville, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheHarper",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Harper",
+                "* propertyID [fx]": "The Harper {'property_identifier': 'recBZkBm19A4HHbkg'}"
+            }
+        },
+        {
+            "id": "recNTD3gGi7SXZFwf",
+            "createdTime": "2023-08-15T06:13:35.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Turtle Bay",
+                    "Midtown East"
+                ],
+                "cardContactEmail !public": "sales@monogramnewyork.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Monogram",
+                "cardContactAgency !public": [
+                    "CORE"
+                ],
+                "cardPropertyWebsite": "monogramnewyork.com",
+                "cardPropertyLocationAddress": "135 East 47th Street, New York, NY 10017",
+                "cardPropertyNeighborhood [fx]": "Turtle Bay, Midtown East, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Monogram",
+                "* cardPropertyName{Parameter}Url [fx]": "Monogram",
+                "* propertyID [fx]": "Monogram {'property_identifier': 'recNTD3gGi7SXZFwf'}"
+            }
+        },
+        {
+            "id": "recDyBwVjjah1ENqB",
+            "createdTime": "2023-08-16T02:51:48.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "DUMBO"
+                ],
+                "cardContactEmail !public": "sales@olympiadumbo.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Olympia Dumbo",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "olympiadumbo.com",
+                "cardPropertyLocationAddress": "30 Front Street, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "DUMBO, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "OlympiaDumbo",
+                "* cardPropertyName{Parameter}Url [fx]": "Olympia%20Dumbo",
+                "* propertyID [fx]": "Olympia Dumbo {'property_identifier': 'recDyBwVjjah1ENqB'}"
+            }
+        },
+        {
+            "id": "recfo2Gtywe3Mw5BK",
+            "createdTime": "2023-08-16T03:26:46.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Flatiron District"
+                ],
+                "cardContactEmail !public": "info@flatironhousenyc.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Flatiron House",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "flatironhousenyc.com",
+                "cardPropertyLocationAddress": "39 West 23rd Street, New York, NY 10010",
+                "cardPropertyNeighborhood [fx]": "Flatiron District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "FlatironHouse",
+                "* cardPropertyName{Parameter}Url [fx]": "Flatiron%20House",
+                "* propertyID [fx]": "Flatiron House {'property_identifier': 'recfo2Gtywe3Mw5BK'}"
+            }
+        },
+        {
+            "id": "recmtH3NGNKfGnPp2",
+            "createdTime": "2023-08-16T01:57:33.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Brooklyn Heights"
+                ],
+                "cardContactEmail !public": "info@quaytowerbk.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Quay Tower",
+                "cardContactAgency !public": [
+                    "Serhant"
+                ],
+                "cardPropertyWebsite": "quaytowerbk.com",
+                "cardPropertyLocationAddress": "50 Bridge Park Drive, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "Brooklyn Heights, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "QuayTower",
+                "* cardPropertyName{Parameter}Url [fx]": "Quay%20Tower",
+                "* propertyID [fx]": "Quay Tower {'property_identifier': 'recmtH3NGNKfGnPp2'}"
+            }
+        },
+        {
+            "id": "rec9SjW9dB5L2NKD7",
+            "createdTime": "2023-08-16T02:49:16.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Downtown Brooklyn"
+                ],
+                "cardContactEmail !public": "info@Brooklynpointnyc.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Brooklyn Point",
+                "cardContactAgency !public": [
+                    "Serhant"
+                ],
+                "cardPropertyWebsite": "brooklynpointnyc.com",
+                "cardPropertyLocationAddress": "1 City Point, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "Downtown Brooklyn, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "BrooklynPoint",
+                "* cardPropertyName{Parameter}Url [fx]": "Brooklyn%20Point",
+                "* propertyID [fx]": "Brooklyn Point {'property_identifier': 'rec9SjW9dB5L2NKD7'}"
+            }
+        },
+        {
+            "id": "rec8oqkROuTdg6r3B",
+            "createdTime": "2023-08-16T01:53:33.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Brooklyn Heights"
+                ],
+                "cardContactEmail !public": "info@oneclintonbk.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "One Clinton",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "oneclintonbk.com",
+                "cardPropertyLocationAddress": "1 Clinton Street, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "Brooklyn Heights, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "OneClinton",
+                "* cardPropertyName{Parameter}Url [fx]": "One%20Clinton",
+                "* propertyID [fx]": "One Clinton {'property_identifier': 'rec8oqkROuTdg6r3B'}"
+            }
+        },
+        {
+            "id": "recVYOkpMghkdgaRE",
+            "createdTime": "2023-08-16T03:10:04.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Carnegie Hill"
+                ],
+                "cardContactEmail !public": "info@1289lexington.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "1289 Lexington",
+                "cardContactAgency !public": [
+                    "Zeckendorf"
+                ],
+                "cardPropertyWebsite": "1289lexington.com",
+                "cardPropertyLocationAddress": "1289 Lexington Avenue, New York, NY 10028",
+                "cardPropertyNeighborhood [fx]": "Carnegie Hill, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "1289Lexington",
+                "* cardPropertyName{Parameter}Url [fx]": "1289%20Lexington",
+                "* propertyID [fx]": "1289 Lexington {'property_identifier': 'recVYOkpMghkdgaRE'}"
+            }
+        },
+        {
+            "id": "recASkqRw98BjIyUX",
+            "createdTime": "2023-08-16T02:57:06.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Park Slope"
+                ],
+                "cardContactEmail !public": "info@575fourth.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "575 Fourth",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "575fourth.com",
+                "cardPropertyLocationAddress": "575 4th Avenue, New York, NY 11215",
+                "cardPropertyNeighborhood [fx]": "Park Slope, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "575Fourth",
+                "* cardPropertyName{Parameter}Url [fx]": "575%20Fourth",
+                "* propertyID [fx]": "575 Fourth {'property_identifier': 'recASkqRw98BjIyUX'}"
+            }
+        },
+        {
+            "id": "recroAQiqDVnGwPDT",
+            "createdTime": "2023-08-16T03:03:05.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Williamsburg"
+                ],
+                "cardContactEmail !public": "info@171N1.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "171 North 1st Street",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "171n1.com",
+                "cardPropertyLocationAddress": "171 North 1st Street, New York, NY 11211",
+                "cardPropertyNeighborhood [fx]": "Williamsburg, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "171North1stStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "171%20North%201st%20Street",
+                "* propertyID [fx]": "171 North 1st Street {'property_identifier': 'recroAQiqDVnGwPDT'}"
+            }
+        },
+        {
+            "id": "rechyvvh6W6VHzuNq",
+            "createdTime": "2023-08-16T03:21:27.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Financial District"
+                ],
+                "cardContactEmail !public": "info@130william.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "130 William",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "130william.com",
+                "cardPropertyLocationAddress": "130 William Street, New York, NY 10038",
+                "cardPropertyNeighborhood [fx]": "Financial District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "130William",
+                "* cardPropertyName{Parameter}Url [fx]": "130%20William",
+                "* propertyID [fx]": "130 William {'property_identifier': 'rechyvvh6W6VHzuNq'}"
+            }
+        },
+        {
+            "id": "recG626UkBmZ7mSej",
+            "createdTime": "2023-08-16T03:14:45.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Midtown"
+                ],
+                "cardContactEmail !public": "info@53west53.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "53W53",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "53west53.com",
+                "cardPropertyLocationAddress": "53 West 53rd Street, New York, NY 10019",
+                "cardPropertyNeighborhood [fx]": "Midtown, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "53W53",
+                "* cardPropertyName{Parameter}Url [fx]": "53W53",
+                "* propertyID [fx]": "53W53 {'property_identifier': 'recG626UkBmZ7mSej'}"
+            }
+        },
+        {
+            "id": "recih7loCoI713AHQ",
+            "createdTime": "2023-09-02T04:37:57.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Kips Bay"
+                ],
+                "cardContactEmail !public": "info@vunewyork.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "VU New York",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "vunewyork.com",
+                "cardPropertyLocationAddress": "368 Third Avenue, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "Kips Bay, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "VUNewYork",
+                "* cardPropertyName{Parameter}Url [fx]": "VU%20New%20York",
+                "* propertyID [fx]": "VU New York {'property_identifier': 'recih7loCoI713AHQ'}"
+            }
+        },
+        {
+            "id": "recSgGZWLhMZ7ZzUW",
+            "createdTime": "2023-09-03T21:28:51.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Tribeca"
+                ],
+                "cardContactEmail !public": "info@thewoolworthtower.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Woolworth Tower Residences",
+                "cardContactAgency !public": [
+                    "Sotheby's"
+                ],
+                "cardPropertyWebsite": "thewoolworthtower.com",
+                "cardPropertyLocationAddress": "2 Park Place, New York, NY 10007",
+                "cardPropertyNeighborhood [fx]": "Tribeca, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheWoolworthTowerResidences",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Woolworth%20Tower%20Residences",
+                "* propertyID [fx]": "The Woolworth Tower Residences {'property_identifier': 'recSgGZWLhMZ7ZzUW'}"
+            }
+        },
+        {
+            "id": "rec9ATH3cOtWDXKr0",
+            "createdTime": "2023-08-31T08:39:03.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@the-westly.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Westly",
+                "cardContactAgency !public": [
+                    "Serhant"
+                ],
+                "cardPropertyWebsite": "the-westly.com",
+                "cardPropertyLocationAddress": "251 West 91st Street, New York NY 10024",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheWestly",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Westly",
+                "* propertyID [fx]": "The Westly {'property_identifier': 'rec9ATH3cOtWDXKr0'}"
+            }
+        },
+        {
+            "id": "recbRtA6J0d0bHJqS",
+            "createdTime": "2023-09-02T07:54:31.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Midtown East"
+                ],
+                "cardContactEmail !public": "info@waldorftowers.nyc",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Towers of the Waldorf Astoria",
+                "cardPropertyWebsite": "waldorftowers.nyc",
+                "cardPropertyLocationAddress": "305 Park Avenue, New York, NY 10022",
+                "cardPropertyNeighborhood [fx]": "Midtown East, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheTowersoftheWaldorfAstoria",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Towers%20of%20the%20Waldorf%20Astoria",
+                "* propertyID [fx]": "The Towers of the Waldorf Astoria {'property_identifier': 'recbRtA6J0d0bHJqS'}"
+            }
+        },
+        {
+            "id": "recCM1AHKwinXfgWK",
+            "createdTime": "2023-09-03T21:22:35.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@15w61.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Park Loggia",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "15w61.com",
+                "cardPropertyLocationAddress": "15 West 61st Street, New York, NY 10023",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheParkLoggia",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Park%20Loggia",
+                "* propertyID [fx]": "The Park Loggia {'property_identifier': 'recCM1AHKwinXfgWK'}"
+            }
+        },
+        {
+            "id": "recFUld0SG175cz1e",
+            "createdTime": "2023-09-03T21:19:05.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper East Side"
+                ],
+                "cardContactEmail !public": "info@323e79th.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Matteo",
+                "cardContactAgency !public": [
+                    "Nest Seekers"
+                ],
+                "cardPropertyWebsite": "323e79th.com",
+                "cardPropertyLocationAddress": "323 East 79th Street, New York, NY 10075",
+                "cardPropertyNeighborhood [fx]": "Upper East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheMatteo",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Matteo",
+                "* propertyID [fx]": "The Matteo {'property_identifier': 'recFUld0SG175cz1e'}"
+            }
+        },
+        {
+            "id": "rec5CZvvmdnFkZtgL",
+            "createdTime": "2023-09-02T04:41:38.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lenox Hill"
+                ],
+                "cardContactEmail !public": "info@theleyton.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Leyton",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "theleyton.com",
+                "cardPropertyLocationAddress": "1059 Third Avenue, New York, NY 10065",
+                "cardPropertyNeighborhood [fx]": "Lenox Hill, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheLeyton",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Leyton",
+                "* propertyID [fx]": "The Leyton {'property_identifier': 'rec5CZvvmdnFkZtgL'}"
+            }
+        },
+        {
+            "id": "rec3YlV2WCMluNqRK",
+            "createdTime": "2023-09-03T21:12:02.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "West Village"
+                ],
+                "cardContactEmail !public": "info@150barrow.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Keller",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "150barrow.com",
+                "cardPropertyLocationAddress": "150 Barrow Street, New York, NY 10014",
+                "cardPropertyNeighborhood [fx]": "West Village, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheKeller",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Keller",
+                "* propertyID [fx]": "The Keller {'property_identifier': 'rec3YlV2WCMluNqRK'}"
+            }
+        },
+        {
+            "id": "recGzsMVO3y0RbEIK",
+            "createdTime": "2023-09-01T19:10:14.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Hell's Kitchen"
+                ],
+                "cardContactEmail !public": "info@gild.nyc",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Gild",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "gild.nyc",
+                "cardPropertyLocationAddress": "441 West 54th Street, New York, NY 10019",
+                "cardPropertyNeighborhood [fx]": "Hell's Kitchen, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheGild",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Gild",
+                "* propertyID [fx]": "The Gild {'property_identifier': 'recGzsMVO3y0RbEIK'}"
+            }
+        },
+        {
+            "id": "recOdQpOJx86fHk57",
+            "createdTime": "2023-09-02T09:42:58.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "West Chelsea"
+                ],
+                "cardContactEmail !public": "info@thecortlandnyc.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Cortland",
+                "cardContactAgency !public": [
+                    "CORE"
+                ],
+                "cardPropertyWebsite": "thecortlandnyc.com",
+                "cardPropertyLocationAddress": "555 West 22nd Street, New York, NY 10011",
+                "cardPropertyNeighborhood [fx]": "West Chelsea, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheCortland",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Cortland",
+                "* propertyID [fx]": "The Cortland {'property_identifier': 'recOdQpOJx86fHk57'}"
+            }
+        },
+        {
+            "id": "recx9KLNVLTlQ4DTo",
+            "createdTime": "2023-09-02T07:48:22.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Midtown East"
+                ],
+                "cardContactEmail !public": "info@thecentralenyc.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "The Centrale",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "thecentralenyc.com",
+                "cardPropertyLocationAddress": "138 East 50th Street, New York, NY 10022",
+                "cardPropertyNeighborhood [fx]": "Midtown East, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "TheCentrale",
+                "* cardPropertyName{Parameter}Url [fx]": "The%20Centrale",
+                "* propertyID [fx]": "The Centrale {'property_identifier': 'recx9KLNVLTlQ4DTo'}"
+            }
+        },
+        {
+            "id": "recHHSHHotrXPNmaF",
+            "createdTime": "2023-08-31T08:16:43.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Sutton Place"
+                ],
+                "cardContactEmail !public": "info@suttontower.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Sutton Tower",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "suttontower.com",
+                "cardPropertyLocationAddress": "430 East 58 Street, New York, NY 10022",
+                "cardPropertyNeighborhood [fx]": "Sutton Place, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "SuttonTower",
+                "* cardPropertyName{Parameter}Url [fx]": "Sutton%20Tower",
+                "* propertyID [fx]": "Sutton Tower {'property_identifier': 'recHHSHHotrXPNmaF'}"
+            }
+        },
+        {
+            "id": "rec6AvWy5DBF6aM01",
+            "createdTime": "2023-09-03T21:08:04.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Park Slope"
+                ],
+                "cardContactEmail !public": "info@sixgarfield.com",
+                "cardContactAgencyGroup !public": "The Aguayo Team",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Six Garfield",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "sixgarfield.com",
+                "cardPropertyLocationAddress": "269 Fourth Avenue, New York, NY 11215",
+                "cardPropertyNeighborhood [fx]": "Park Slope, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "SixGarfield",
+                "* cardPropertyName{Parameter}Url [fx]": "Six%20Garfield",
+                "* propertyID [fx]": "Six Garfield {'property_identifier': 'rec6AvWy5DBF6aM01'}"
+            }
+        },
+        {
+            "id": "recPUDyzSNdKtocSs",
+            "createdTime": "2023-09-03T21:01:23.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Midtown East"
+                ],
+                "cardContactEmail !public": "info@selenenewyork.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Selene",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "selenenewyork.com",
+                "cardPropertyLocationAddress": "100 East 53rd Street, New York, NY 10022",
+                "cardPropertyNeighborhood [fx]": "Midtown East, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Selene",
+                "* cardPropertyName{Parameter}Url [fx]": "Selene",
+                "* propertyID [fx]": "Selene {'property_identifier': 'recPUDyzSNdKtocSs'}"
+            }
+        },
+        {
+            "id": "recKZW2mfDMqzzTdn",
+            "createdTime": "2023-09-03T20:54:13.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Boerum Hill"
+                ],
+                "cardContactEmail !public": "info@saintmarksplacebk.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Saint Marks Place",
+                "cardPropertyWebsite": "saintmarksplacebk.com",
+                "cardPropertyLocationAddress": "58 Saint Marks Place, New York, NY 11217",
+                "cardPropertyNeighborhood [fx]": "Boerum Hill, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "SaintMarksPlace",
+                "* cardPropertyName{Parameter}Url [fx]": "Saint%20Marks%20Place",
+                "* propertyID [fx]": "Saint Marks Place {'property_identifier': 'recKZW2mfDMqzzTdn'}"
+            }
+        },
+        {
+            "id": "recRXmGWtkVg9dgw1",
+            "createdTime": "2023-08-31T09:07:44.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "NoMad"
+                ],
+                "cardContactEmail !public": "sales@rosehill.nyc",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Rose Hill",
+                "cardContactAgency !public": [
+                    "CORE"
+                ],
+                "cardPropertyWebsite": "rosehill.nyc",
+                "cardPropertyLocationAddress": "30 East 29th Street, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "NoMad, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "RoseHill",
+                "* cardPropertyName{Parameter}Url [fx]": "Rose%20Hill",
+                "* propertyID [fx]": "Rose Hill {'property_identifier': 'recRXmGWtkVg9dgw1'}"
+            }
+        },
+        {
+            "id": "recSUTtsln329DY1M",
+            "createdTime": "2023-09-03T20:51:24.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Boerum Hill"
+                ],
+                "cardContactEmail !public": "info@posthousebrooklyn.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Post House",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "posthousebrooklyn.com",
+                "cardPropertyLocationAddress": "533 Pacific Street, New York, NY 11217",
+                "cardPropertyNeighborhood [fx]": "Boerum Hill, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "PostHouse",
+                "* cardPropertyName{Parameter}Url [fx]": "Post%20House",
+                "* propertyID [fx]": "Post House {'property_identifier': 'recSUTtsln329DY1M'}"
+            }
+        },
+        {
+            "id": "recmiVfrh4T9Fpoqy",
+            "createdTime": "2023-09-01T18:59:21.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Billionaire's Row"
+                ],
+                "cardContactEmail !public": "info@one11residences.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "One11 Residences",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "one11residences.com",
+                "cardPropertyLocationAddress": "111 West 56th Street, New York, NY 10019",
+                "cardPropertyNeighborhood [fx]": "Billionaire's Row, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "One11Residences",
+                "* cardPropertyName{Parameter}Url [fx]": "One11%20Residences",
+                "* propertyID [fx]": "One11 Residences {'property_identifier': 'recmiVfrh4T9Fpoqy'}"
+            }
+        },
+        {
+            "id": "recZUgdD0QFPmAR3q",
+            "createdTime": "2023-09-01T18:19:04.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Financial District"
+                ],
+                "cardContactEmail !public": "info@onewallstreet.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "One Wall Street",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "onewallstreet.com",
+                "cardPropertyLocationAddress": "1 Wall Street, New York, NY 10005",
+                "cardPropertyNeighborhood [fx]": "Financial District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "OneWallStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "One%20Wall%20Street",
+                "* propertyID [fx]": "One Wall Street {'property_identifier': 'recZUgdD0QFPmAR3q'}"
+            }
+        },
+        {
+            "id": "recCDv4xONiMCVUrO",
+            "createdTime": "2023-09-03T20:47:12.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Murray Hill"
+                ],
+                "cardContactEmail !public": "sales@oneunpark.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "One United Nations Park",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "oneunpark.com",
+                "cardPropertyLocationAddress": "695 First Avenue, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "Murray Hill, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "OneUnitedNationsPark",
+                "* cardPropertyName{Parameter}Url [fx]": "One%20United%20Nations%20Park",
+                "* propertyID [fx]": "One United Nations Park {'property_identifier': 'recCDv4xONiMCVUrO'}"
+            }
+        },
+        {
+            "id": "rec6uTbGDR0TQvTRN",
+            "createdTime": "2023-09-02T07:20:26.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "info@OneManhattanSquare.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "One Manhattan Square",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "onemanhattansquare.com",
+                "cardPropertyLocationAddress": "225 Cherry Street, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "OneManhattanSquare",
+                "* cardPropertyName{Parameter}Url [fx]": "One%20Manhattan%20Square",
+                "* propertyID [fx]": "One Manhattan Square {'property_identifier': 'rec6uTbGDR0TQvTRN'}"
+            }
+        },
+        {
+            "id": "recaTImkfgRMhPzIa",
+            "createdTime": "2023-09-02T07:15:32.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "info@oneessexcrossing.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "One Essex Crossing",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "oneessexcrossing.com",
+                "cardPropertyLocationAddress": "202 Broome Street, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "OneEssexCrossing",
+                "* cardPropertyName{Parameter}Url [fx]": "One%20Essex%20Crossing",
+                "* propertyID [fx]": "One Essex Crossing {'property_identifier': 'recaTImkfgRMhPzIa'}"
+            }
+        },
+        {
+            "id": "recO5R3TW0JLKuA16",
+            "createdTime": "2023-09-01T18:11:53.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "East Village"
+                ],
+                "cardContactEmail !public": "info@novumeastvillage.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Novum East Village",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "novumeastvillage.com",
+                "cardPropertyLocationAddress": "238 East 3rd Street, New York, NY 10009",
+                "cardPropertyNeighborhood [fx]": "East Village, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "NovumEastVillage",
+                "* cardPropertyName{Parameter}Url [fx]": "Novum%20East%20Village",
+                "* propertyID [fx]": "Novum East Village {'property_identifier': 'recO5R3TW0JLKuA16'}"
+            }
+        },
+        {
+            "id": "recraNL2xvWL8J8ME",
+            "createdTime": "2023-09-02T04:51:18.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lincoln Square"
+                ],
+                "cardContactEmail !public": "info@mo-residencesfifthavenue.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Mandarin Oriental",
+                "cardPropertyWebsite": "mo-residencesfifthavenue.com",
+                "cardPropertyLocationAddress": "685 Fifth Avenue, New York, NY 10022",
+                "cardPropertyNeighborhood [fx]": "Lincoln Square, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "MandarinOriental",
+                "* cardPropertyName{Parameter}Url [fx]": "Mandarin%20Oriental",
+                "* propertyID [fx]": "Mandarin Oriental {'property_identifier': 'recraNL2xvWL8J8ME'}"
+            }
+        },
+        {
+            "id": "recPNWGUPAluNUhUY",
+            "createdTime": "2023-08-31T09:15:36.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Kips Bay"
+                ],
+                "cardContactEmail !public": "sales@165lexi.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Lexi",
+                "cardContactAgency !public": [
+                    "REAVIS"
+                ],
+                "cardPropertyWebsite": "165lexi.com",
+                "cardPropertyLocationAddress": "165 Lexington Avenue, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "Kips Bay, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Lexi",
+                "* cardPropertyName{Parameter}Url [fx]": "Lexi",
+                "* propertyID [fx]": "Lexi {'property_identifier': 'recPNWGUPAluNUhUY'}"
+            }
+        },
+        {
+            "id": "recQWWxc3cFKfTFts",
+            "createdTime": "2023-09-03T20:41:17.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Chelsea"
+                ],
+                "cardContactEmail !public": "info@lanternhouse.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Lantern House",
+                "cardContactAgency !public": [
+                    "Related"
+                ],
+                "cardPropertyWebsite": "lanternhouse.com",
+                "cardPropertyLocationAddress": "515 West 18th Street, New York, NY 10011",
+                "cardPropertyNeighborhood [fx]": "Chelsea, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "LanternHouse",
+                "* cardPropertyName{Parameter}Url [fx]": "Lantern%20House",
+                "* propertyID [fx]": "Lantern House {'property_identifier': 'recQWWxc3cFKfTFts'}"
+            }
+        },
+        {
+            "id": "recPRSG7mIbnhVN52",
+            "createdTime": "2023-09-03T20:33:39.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Financial District"
+                ],
+                "cardContactEmail !public": "info@77greenwich.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Jolie",
+                "cardContactAgency !public": [
+                    "CORE"
+                ],
+                "cardPropertyWebsite": "77greenwich.com",
+                "cardPropertyLocationAddress": "77 Greenwich Street, New York, NY 10006",
+                "cardPropertyNeighborhood [fx]": "Financial District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Jolie",
+                "* cardPropertyName{Parameter}Url [fx]": "Jolie",
+                "* propertyID [fx]": "Jolie {'property_identifier': 'recPRSG7mIbnhVN52'}"
+            }
+        },
+        {
+            "id": "recesW5plOVTQs6bY",
+            "createdTime": "2023-09-02T08:13:21.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Tribeca"
+                ],
+                "cardContactEmail !public": "iristribeca@serhant.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Iris Tribeca",
+                "cardContactAgency !public": [
+                    "Serhant"
+                ],
+                "cardPropertyWebsite": "iristribeca.com",
+                "cardPropertyLocationAddress": "19 Park Place, New York, NY 10007",
+                "cardPropertyNeighborhood [fx]": "Tribeca, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "IrisTribeca",
+                "* cardPropertyName{Parameter}Url [fx]": "Iris%20Tribeca",
+                "* propertyID [fx]": "Iris Tribeca {'property_identifier': 'recesW5plOVTQs6bY'}"
+            }
+        },
+        {
+            "id": "recvPjVK4aSIt8ZTg",
+            "createdTime": "2023-08-14T05:28:49.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Greenwich Village"
+                ],
+                "cardContactEmail !public": "greenwichwest@corcoransunshine.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Greenwich West",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "greenwichwest.com",
+                "cardPropertyLocationAddress": "110 Charlton Street, New York, NY 10014",
+                "cardPropertyNeighborhood [fx]": "Greenwich Village, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "GreenwichWest",
+                "* cardPropertyName{Parameter}Url [fx]": "Greenwich%20West",
+                "* propertyID [fx]": "Greenwich West {'property_identifier': 'recvPjVK4aSIt8ZTg'}"
+            }
+        },
+        {
+            "id": "rec8jXRF5WfeuDOTc",
+            "createdTime": "2023-09-01T19:04:28.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Gramercy Park"
+                ],
+                "cardContactEmail !public": "sales@gramercygates.com",
+                "cardContactAgencyGroup !public": "The Edward Hickey Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Gramercy Gates",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "gramercygates.com",
+                "cardPropertyLocationAddress": "327 East 22nd Street, New York, NY 10010",
+                "cardPropertyNeighborhood [fx]": "Gramercy Park, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "GramercyGates",
+                "* cardPropertyName{Parameter}Url [fx]": "Gramercy%20Gates",
+                "* propertyID [fx]": "Gramercy Gates {'property_identifier': 'rec8jXRF5WfeuDOTc'}"
+            }
+        },
+        {
+            "id": "recnjMIMgrnfKzWdq",
+            "createdTime": "2023-08-14T05:21:51.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Yorkville"
+                ],
+                "cardContactEmail !public": "427e90@corcoran.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Gracie Green",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "graciegreen.nyc",
+                "cardPropertyLocationAddress": "427 East 90th Street, New York, NY 10128",
+                "cardPropertyNeighborhood [fx]": "Yorkville, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "GracieGreen",
+                "* cardPropertyName{Parameter}Url [fx]": "Gracie%20Green",
+                "* propertyID [fx]": "Gracie Green {'property_identifier': 'recnjMIMgrnfKzWdq'}"
+            }
+        },
+        {
+            "id": "recppoB5M5gyL9z6D",
+            "createdTime": "2023-08-15T05:44:34.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "DUMBO"
+                ],
+                "cardContactEmail !public": "info@frontandyork.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "Front and York",
+                "cardContactAgency !public": [
+                    "LIVWRK",
+                    "CIM"
+                ],
+                "cardPropertyWebsite": "frontandyork.com",
+                "cardPropertyLocationAddress": "85 Jay Street, New York, NY 11201",
+                "cardPropertyNeighborhood [fx]": "DUMBO, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "FrontandYork",
+                "* cardPropertyName{Parameter}Url [fx]": "Front%20and%20York",
+                "* propertyID [fx]": "Front and York {'property_identifier': 'recppoB5M5gyL9z6D'}"
+            }
+        },
+        {
+            "id": "recrzOIYl9yr4kYxm",
+            "createdTime": "2023-09-02T13:14:58.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "sales@15west96.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Fifteen West 96th Street",
+                "cardContactAgency !public": [
+                    "The Agency"
+                ],
+                "cardPropertyWebsite": "15west96.com",
+                "cardPropertyLocationAddress": "15 West 96th Street, New York, NY 10025",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "FifteenWest96thStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "Fifteen%20West%2096th%20Street",
+                "* propertyID [fx]": "Fifteen West 96th Street {'property_identifier': 'recrzOIYl9yr4kYxm'}"
+            }
+        },
+        {
+            "id": "reci1ewXFrzcvzAf6",
+            "createdTime": "2023-08-31T07:47:34.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Kips Bay"
+                ],
+                "cardContactEmail !public": "info@eastlight.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Eastlight",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "eastlight.com",
+                "cardPropertyLocationAddress": "501 Third Avenue, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "Kips Bay, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "Eastlight",
+                "* cardPropertyName{Parameter}Url [fx]": "Eastlight",
+                "* propertyID [fx]": "Eastlight {'property_identifier': 'reci1ewXFrzcvzAf6'}"
+            }
+        },
+        {
+            "id": "reciBZSayPmKTn2Gb",
+            "createdTime": "2023-09-02T08:08:33.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Morningside Heights"
+                ],
+                "cardContactEmail !public": "sales@claremonthall.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Claremont Hall",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "claremonthall.com",
+                "cardPropertyLocationAddress": "100 Claremont Avenue, New York, NY 10027",
+                "cardPropertyNeighborhood [fx]": "Morningside Heights, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "ClaremontHall",
+                "* cardPropertyName{Parameter}Url [fx]": "Claremont%20Hall",
+                "* propertyID [fx]": "Claremont Hall {'property_identifier': 'reciBZSayPmKTn2Gb'}"
+            }
+        },
+        {
+            "id": "recuEK25phGZ9iH5F",
+            "createdTime": "2023-09-02T09:21:07.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@charlotteUWS.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Charlotte of the Upper West Side",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "charlotteuws.com",
+                "cardPropertyLocationAddress": "470 Columbus Ave, New York, NY 10024",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "CharlotteoftheUpperWestSide",
+                "* cardPropertyName{Parameter}Url [fx]": "Charlotte%20of%20the%20Upper%20West%20Side",
+                "* propertyID [fx]": "Charlotte of the Upper West Side {'property_identifier': 'recuEK25phGZ9iH5F'}"
+            }
+        },
+        {
+            "id": "recCsdNzzRxieaEux",
+            "createdTime": "2023-09-01T18:44:29.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Billionaire's Row"
+                ],
+                "cardContactEmail !public": "sales@centralparktower.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Central Park Tower",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "centralparktower.com",
+                "cardPropertyLocationAddress": "217 West 57th Street, New York, NY 10019",
+                "cardPropertyNeighborhood [fx]": "Billionaire's Row, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "CentralParkTower",
+                "* cardPropertyName{Parameter}Url [fx]": "Central%20Park%20Tower",
+                "* propertyID [fx]": "Central Park Tower {'property_identifier': 'recCsdNzzRxieaEux'}"
+            }
+        },
+        {
+            "id": "rectjEuHGKNpDZ7Ni",
+            "createdTime": "2023-09-03T20:21:27.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Hell's Kitchen"
+                ],
+                "cardContactEmail !public": "dchang@compass.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "Bloom on Forty Fifth",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "compass.com",
+                "cardPropertyLocationAddress": "500 W 45th Street, New York, NY 10036",
+                "cardPropertyNeighborhood [fx]": "Hell's Kitchen, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "BloomonFortyFifth",
+                "* cardPropertyName{Parameter}Url [fx]": "Bloom%20on%20Forty%20Fifth",
+                "* propertyID [fx]": "Bloom on Forty Fifth {'property_identifier': 'rectjEuHGKNpDZ7Ni'}"
+            }
+        },
+        {
+            "id": "recoNNUlBOuaUMTMZ",
+            "createdTime": "2023-08-31T08:26:02.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "sales@2505broadway.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "2505 Broadway",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "2505broadway.com",
+                "cardPropertyLocationAddress": "2505 Broadway, New York, NY 10025",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "2505Broadway",
+                "* cardPropertyName{Parameter}Url [fx]": "2505%20Broadway",
+                "* propertyID [fx]": "2505 Broadway {'property_identifier': 'recoNNUlBOuaUMTMZ'}"
+            }
+        },
+        {
+            "id": "rec9ef6MoT3WqYtKZ",
+            "createdTime": "2023-09-01T02:07:06.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Carnegie Hill"
+                ],
+                "cardContactEmail !public": "info@1228madison.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "1228 Madison Avenue",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "1228madison.com",
+                "cardPropertyLocationAddress": "1228 Madison Avenue, New York, NY 10128",
+                "cardPropertyNeighborhood [fx]": "Carnegie Hill, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "1228MadisonAvenue",
+                "* cardPropertyName{Parameter}Url [fx]": "1228%20Madison%20Avenue",
+                "* propertyID [fx]": "1228 Madison Avenue {'property_identifier': 'rec9ef6MoT3WqYtKZ'}"
+            }
+        },
+        {
+            "id": "recLBh2qn6mbfX8na",
+            "createdTime": "2023-08-31T07:38:02.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Midtown West"
+                ],
+                "cardContactEmail !public": "sales@611w56st.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "611 West 56th Street",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "611w56st.com",
+                "cardPropertyLocationAddress": "611 West 56th Street, New York, NY 10019",
+                "cardPropertyNeighborhood [fx]": "Midtown West, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "611West56thStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "611%20West%2056th%20Street",
+                "* propertyID [fx]": "611 West 56th Street {'property_identifier': 'recLBh2qn6mbfX8na'}"
+            }
+        },
+        {
+            "id": "recwkyI74MOBXc1Pe",
+            "createdTime": "2023-08-31T08:12:58.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "SoHo"
+                ],
+                "cardContactEmail !public": "info@565broomesoho.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "565 Broome SoHo",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "565broomesoho.com",
+                "cardPropertyLocationAddress": "565 Broome Street, New York, NY 10013",
+                "cardPropertyNeighborhood [fx]": "SoHo, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "565BroomeSoHo",
+                "* cardPropertyName{Parameter}Url [fx]": "565%20Broome%20SoHo",
+                "* propertyID [fx]": "565 Broome SoHo {'property_identifier': 'recwkyI74MOBXc1Pe'}"
+            }
+        },
+        {
+            "id": "recuKZBLJ9I0ZnPWa",
+            "createdTime": "2023-09-02T09:36:24.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@555westendave.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "555 West End Avenue",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "555westendave.com",
+                "cardPropertyLocationAddress": "555 West End Avenue, New York, NY 10024",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "555WestEndAvenue",
+                "* cardPropertyName{Parameter}Url [fx]": "555%20West%20End%20Avenue",
+                "* propertyID [fx]": "555 West End Avenue {'property_identifier': 'recuKZBLJ9I0ZnPWa'}"
+            }
+        },
+        {
+            "id": "recIWgoPvMYcd4HvL",
+            "createdTime": "2023-09-03T20:16:51.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Hell's Kitchen"
+                ],
+                "cardContactEmail !public": "info@547west47.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "547 West 47 Street",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "547west47.com",
+                "cardPropertyLocationAddress": "547 West 47th Street, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "Hell's Kitchen, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "547West47Street",
+                "* cardPropertyName{Parameter}Url [fx]": "547%20West%2047%20Street",
+                "* propertyID [fx]": "547 West 47 Street {'property_identifier': 'recIWgoPvMYcd4HvL'}"
+            }
+        },
+        {
+            "id": "recC6j2sGa2CNvvRm",
+            "createdTime": "2023-08-31T08:20:12.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@393westend.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "393 West End Avenue",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "393westend.com",
+                "cardPropertyLocationAddress": "393 West End Avenue, New York, NY 10024",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "393WestEndAvenue",
+                "* cardPropertyName{Parameter}Url [fx]": "393%20West%20End%20Avenue",
+                "* propertyID [fx]": "393 West End Avenue {'property_identifier': 'recC6j2sGa2CNvvRm'}"
+            }
+        },
+        {
+            "id": "recOJh9UcSUVgtEA7",
+            "createdTime": "2023-09-02T09:28:25.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@378wea.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "378 West End Avenue",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "378wea.com",
+                "cardPropertyLocationAddress": "378 West End Avenue, New York, NY 10024",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "378WestEndAvenue",
+                "* cardPropertyName{Parameter}Url [fx]": "378%20West%20End%20Avenue",
+                "* propertyID [fx]": "378 West End Avenue {'property_identifier': 'recOJh9UcSUVgtEA7'}"
+            }
+        },
+        {
+            "id": "recJVWglRmuuxDm8X",
+            "createdTime": "2023-09-03T20:09:43.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Nolita"
+                ],
+                "cardContactEmail !public": "378broome@compass.com",
+                "cardContactAgencyGroup !public": "The Hustis Jovanovic Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "378 Broome Street",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "378broome.nyc",
+                "cardPropertyLocationAddress": "378 Broome Street, New York, NY 10013",
+                "cardPropertyNeighborhood [fx]": "Nolita, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "378BroomeStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "378%20Broome%20Street",
+                "* propertyID [fx]": "378 Broome Street {'property_identifier': 'recJVWglRmuuxDm8X'}"
+            }
+        },
+        {
+            "id": "reckQVtpRNpbgmsVn",
+            "createdTime": "2023-08-14T05:22:57.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Park Slope"
+                ],
+                "cardContactEmail !public": "butlerbk@elliman.com",
+                "cardContactAgencyGroup !public": "The Lindsay Barton Barrett Team",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "350 Butler Street",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "butlerbk.com",
+                "cardPropertyLocationAddress": "350 Butler Street, New York, NY 11217",
+                "cardPropertyNeighborhood [fx]": "Park Slope, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "350ButlerStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "350%20Butler%20Street",
+                "* propertyID [fx]": "350 Butler Street {'property_identifier': 'reckQVtpRNpbgmsVn'}"
+            }
+        },
+        {
+            "id": "recMoiIA1GkGdlI16",
+            "createdTime": "2023-09-03T19:49:12.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Penn District"
+                ],
+                "cardContactAgencyGroup !public": "Gavrilov / Grosso Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "300 W 30",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "300w30nyc.com",
+                "cardPropertyLocationAddress": "300 West 30th Street, New York, NY 10001",
+                "cardPropertyNeighborhood [fx]": "Penn District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "300W30",
+                "* cardPropertyName{Parameter}Url [fx]": "300%20W%2030",
+                "* propertyID [fx]": "300 W 30 {'property_identifier': 'recMoiIA1GkGdlI16'}"
+            }
+        },
+        {
+            "id": "recnyGeqMftxYJMTo",
+            "createdTime": "2023-09-01T18:23:54.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Gramercy Park"
+                ],
+                "cardContactEmail !public": "info@250e21.com",
+                "cardContactAgencyGroup !public": "The Eklund | Gomes Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "250 East 21st Street",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "250e21.com",
+                "cardPropertyLocationAddress": "250 East 21st Street, New York, NY 10010",
+                "cardPropertyNeighborhood [fx]": "Gramercy Park, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "250East21stStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "250%20East%2021st%20Street",
+                "* propertyID [fx]": "250 East 21st Street {'property_identifier': 'recnyGeqMftxYJMTo'}"
+            }
+        },
+        {
+            "id": "rec8DnzvFxRSgnx3L",
+            "createdTime": "2023-08-31T08:02:35.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "sales@222eastbroadway.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "222 East Broadway",
+                "cardContactAgency !public": [
+                    "Cantor & Pecorella"
+                ],
+                "cardPropertyWebsite": "222eastbroadway.com",
+                "cardPropertyLocationAddress": "222 East Broadway, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "222EastBroadway",
+                "* cardPropertyName{Parameter}Url [fx]": "222%20East%20Broadway",
+                "* propertyID [fx]": "222 East Broadway {'property_identifier': 'rec8DnzvFxRSgnx3L'}"
+            }
+        },
+        {
+            "id": "recj5cEoxDUk95kKu",
+            "createdTime": "2023-09-02T09:24:12.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@212w93.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "212 West 93rd Street",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "212w93.com",
+                "cardPropertyLocationAddress": "212 West 93rd Street, New York, NY 10025",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "212West93rdStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "212%20West%2093rd%20Street",
+                "* propertyID [fx]": "212 West 93rd Street {'property_identifier': 'recj5cEoxDUk95kKu'}"
+            }
+        },
+        {
+            "id": "recuSFU2DrT3F7cqw",
+            "createdTime": "2023-09-03T12:27:28.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@212west72.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "212 West 72nd",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "212west72.com",
+                "cardPropertyLocationAddress": "212 West 72nd Street New York, NY 10023",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "212West72nd",
+                "* cardPropertyName{Parameter}Url [fx]": "212%20West%2072nd",
+                "* propertyID [fx]": "212 West 72nd {'property_identifier': 'recuSFU2DrT3F7cqw'}"
+            }
+        },
+        {
+            "id": "recpoZwUkvE6ujJKQ",
+            "createdTime": "2023-08-31T08:08:15.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "sales@208delancey.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "208 Delancey",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "208delancey.com",
+                "cardPropertyLocationAddress": "208 Delancey Street, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "208Delancey",
+                "* cardPropertyName{Parameter}Url [fx]": "208%20Delancey",
+                "* propertyID [fx]": "208 Delancey {'property_identifier': 'recpoZwUkvE6ujJKQ'}"
+            }
+        },
+        {
+            "id": "recHsVvC8SHuaKVH9",
+            "createdTime": "2023-09-03T12:18:57.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper East Side"
+                ],
+                "cardContactEmail !public": "info@200east59.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "200 East 59",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "200east59.com",
+                "cardPropertyLocationAddress": "200 East 59th Street, New York, NY 10022",
+                "cardPropertyNeighborhood [fx]": "Upper East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "200East59",
+                "* cardPropertyName{Parameter}Url [fx]": "200%20East%2059",
+                "* propertyID [fx]": "200 East 59 {'property_identifier': 'recHsVvC8SHuaKVH9'}"
+            }
+        },
+        {
+            "id": "reclm6IMHfCS35Utw",
+            "createdTime": "2023-09-03T12:11:46.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "hottingerteam@elliman.com",
+                "cardContactAgencyGroup !public": "Hottinger Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "196 Orchard",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "196orchard.com",
+                "cardPropertyLocationAddress": "196 Orchard Street, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "196Orchard",
+                "* cardPropertyName{Parameter}Url [fx]": "196%20Orchard",
+                "* propertyID [fx]": "196 Orchard {'property_identifier': 'reclm6IMHfCS35Utw'}"
+            }
+        },
+        {
+            "id": "recpZ3rICQEzq7QZ0",
+            "createdTime": "2023-09-02T07:37:45.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "info@175chrystiestreet.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "175 Chrystie Street",
+                "cardContactAgency !public": [
+                    "Azoulay"
+                ],
+                "cardPropertyWebsite": "175chrystiestreet.com",
+                "cardPropertyLocationAddress": "175 Chrystie Street, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "175ChrystieStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "175%20Chrystie%20Street",
+                "* propertyID [fx]": "175 Chrystie Street {'property_identifier': 'recpZ3rICQEzq7QZ0'}"
+            }
+        },
+        {
+            "id": "recrzec0pllAPmRXb",
+            "createdTime": "2023-08-14T05:20:37.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Flatiron District"
+                ],
+                "cardContactEmail !public": "142flatiron@compass.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "142 Flatiron",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "142flatiron.com",
+                "cardPropertyLocationAddress": "142 W 19th Street, New York, NY 10011",
+                "cardPropertyNeighborhood [fx]": "Flatiron District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "142Flatiron",
+                "* cardPropertyName{Parameter}Url [fx]": "142%20Flatiron",
+                "* propertyID [fx]": "142 Flatiron {'property_identifier': 'recrzec0pllAPmRXb'}"
+            }
+        },
+        {
+            "id": "recNrNmSnX9SiKDE0",
+            "createdTime": "2023-08-31T08:48:25.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Financial District"
+                ],
+                "cardContactEmail !public": "info@125greenwich.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "125 Greenwich Street",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "125greenwich.com",
+                "cardPropertyLocationAddress": "125 Greenwich Street, New York, NY 10006",
+                "cardPropertyNeighborhood [fx]": "Financial District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "125GreenwichStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "125%20Greenwich%20Street",
+                "* propertyID [fx]": "125 Greenwich Street {'property_identifier': 'recNrNmSnX9SiKDE0'}"
+            }
+        },
+        {
+            "id": "rec910X8KzilR69sV",
+            "createdTime": "2023-09-01T18:49:30.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Billionaire's Row"
+                ],
+                "cardContactEmail !public": "info@111w57.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "111 West 57th Street",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "111w57.com",
+                "cardPropertyLocationAddress": "111 West 57th Street, New York, NY 10019",
+                "cardPropertyNeighborhood [fx]": "Billionaire's Row, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "111West57thStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "111%20West%2057th%20Street",
+                "* propertyID [fx]": "111 West 57th Street {'property_identifier': 'rec910X8KzilR69sV'}"
+            }
+        },
+        {
+            "id": "rectCKN5VJocov4e5",
+            "createdTime": "2023-09-03T12:03:19.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Williamsburg"
+                ],
+                "cardContactEmail !public": "sales@110north1.com",
+                "cardPropertyTagsCity": [
+                    "Brooklyn"
+                ],
+                "cardPropertyName": "110 North 1st Street",
+                "cardContactAgency !public": [
+                    "Nest Seekers"
+                ],
+                "cardPropertyWebsite": "110north1.com",
+                "cardPropertyLocationAddress": "110 North 1st Street, New York, NY 11249",
+                "cardPropertyNeighborhood [fx]": "Williamsburg, Brooklyn",
+                "* cardPropertyName{Parameter}ID [fx]": "110North1stStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "110%20North%201st%20Street",
+                "* propertyID [fx]": "110 North 1st Street {'property_identifier': 'rectCKN5VJocov4e5'}"
+            }
+        },
+        {
+            "id": "recL4hvaBpUCEqnmo",
+            "createdTime": "2023-08-14T05:25:08.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Chelsea"
+                ],
+                "cardContactEmail !public": "chuck.franklin@compass.com",
+                "cardContactAgencyGroup !public": "The Franklin Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "101 West 14th Street",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "101west14th.com",
+                "cardPropertyLocationAddress": "101 West 14th Street, New York, NY 10011",
+                "cardPropertyNeighborhood [fx]": "Chelsea, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "101West14thStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "101%20West%2014th%20Street",
+                "* propertyID [fx]": "101 West 14th Street {'property_identifier': 'recL4hvaBpUCEqnmo'}"
+            }
+        },
+        {
+            "id": "recENRbVKkDqnol8c",
+            "createdTime": "2023-08-15T06:28:00.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Upper West Side"
+                ],
+                "cardContactEmail !public": "info@96andBroadway.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "96+Broadway",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "96andbroadway.com",
+                "cardPropertyLocationAddress": "250 West 96th Street, New York, NY 10025",
+                "cardPropertyNeighborhood [fx]": "Upper West Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "96+Broadway",
+                "* cardPropertyName{Parameter}Url [fx]": "96+Broadway",
+                "* propertyID [fx]": "96+Broadway {'property_identifier': 'recENRbVKkDqnol8c'}"
+            }
+        },
+        {
+            "id": "reccHx2rTejmepPUy",
+            "createdTime": "2023-08-14T05:06:09.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "East Village"
+                ],
+                "cardContactEmail !public": "75firstcondos@serhant.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "75 First Ave",
+                "cardContactAgency !public": [
+                    "Serhant"
+                ],
+                "cardPropertyWebsite": "75firstcondos.com",
+                "cardPropertyLocationAddress": "75 First Avenue, New York, NY 10003",
+                "cardPropertyNeighborhood [fx]": "East Village, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "75FirstAve",
+                "* cardPropertyName{Parameter}Url [fx]": "75%20First%20Ave",
+                "* propertyID [fx]": "75 First Ave {'property_identifier': 'reccHx2rTejmepPUy'}"
+            }
+        },
+        {
+            "id": "reclYxzGC19VO9pOw",
+            "createdTime": "2023-09-03T11:38:35.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lower East Side"
+                ],
+                "cardContactEmail !public": "jtuinstra@elliman.com",
+                "cardContactAgencyGroup !public": "The Tuinstra-Davis Team",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "66 Clinton Street",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "66clinton.com",
+                "cardPropertyLocationAddress": "66 Clinton Street, New York, NY 10002",
+                "cardPropertyNeighborhood [fx]": "Lower East Side, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "66ClintonStreet",
+                "* cardPropertyName{Parameter}Url [fx]": "66%20Clinton%20Street",
+                "* propertyID [fx]": "66 Clinton Street {'property_identifier': 'reclYxzGC19VO9pOw'}"
+            }
+        },
+        {
+            "id": "rectDZfFRxDpKrGey",
+            "createdTime": "2023-08-31T08:44:46.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Yorkville"
+                ],
+                "cardContactEmail !public": "hello@40eastend.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "40 East End",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "40eastend.com",
+                "cardPropertyLocationAddress": "40 East End Avenue, New York, NY 10028",
+                "cardPropertyNeighborhood [fx]": "Yorkville, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "40EastEnd",
+                "* cardPropertyName{Parameter}Url [fx]": "40%20East%20End",
+                "* propertyID [fx]": "40 East End {'property_identifier': 'rectDZfFRxDpKrGey'}"
+            }
+        },
+        {
+            "id": "recQfdBosGdoOKQCB",
+            "createdTime": "2023-09-02T04:31:17.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Hudson Yards"
+                ],
+                "cardContactEmail !public": "info@livehudsonyards.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "35 Hudson Yards",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "35hudsonyards.com",
+                "cardPropertyLocationAddress": "35 Hudson Yards, New York, NY 10001",
+                "cardPropertyNeighborhood [fx]": "Hudson Yards, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "35HudsonYards",
+                "* cardPropertyName{Parameter}Url [fx]": "35%20Hudson%20Yards",
+                "* propertyID [fx]": "35 Hudson Yards {'property_identifier': 'recQfdBosGdoOKQCB'}"
+            }
+        },
+        {
+            "id": "recEQYsjht2ut9Tdz",
+            "createdTime": "2023-08-14T04:56:41.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "NoMad"
+                ],
+                "cardContactEmail !public": "30e31st@modlingroup.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "30E31",
+                "cardContactAgency !public": [
+                    "Modlin Group"
+                ],
+                "cardPropertyWebsite": "30e31nomad.com",
+                "cardPropertyLocationAddress": "30 East 31st Street, New York, NY 10016",
+                "cardPropertyNeighborhood [fx]": "NoMad, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "30E31",
+                "* cardPropertyName{Parameter}Url [fx]": "30E31",
+                "* propertyID [fx]": "30E31 {'property_identifier': 'recEQYsjht2ut9Tdz'}"
+            }
+        },
+        {
+            "id": "rec6vz2ht7KA8TzqK",
+            "createdTime": "2023-09-03T08:21:12.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Financial District"
+                ],
+                "cardContactEmail !public": "info@25parkrow.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "25 Park Row",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "25parkrow.com",
+                "cardPropertyLocationAddress": "25 Park Row, New York, NY 10007",
+                "cardPropertyNeighborhood [fx]": "Financial District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "25ParkRow",
+                "* cardPropertyName{Parameter}Url [fx]": "25%20Park%20Row",
+                "* propertyID [fx]": "25 Park Row {'property_identifier': 'rec6vz2ht7KA8TzqK'}"
+            }
+        },
+        {
+            "id": "recns5AAfRm8388Rb",
+            "createdTime": "2023-09-03T07:17:04.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Hudson Yards"
+                ],
+                "cardContactEmail !public": "info@livehudsonyards.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "15 Hudson Yards",
+                "cardContactAgency !public": [
+                    "Corcoran"
+                ],
+                "cardPropertyWebsite": "15hudsonyards.com",
+                "cardPropertyLocationAddress": "15 Hudson Yards, New York, NY 10001",
+                "cardPropertyNeighborhood [fx]": "Hudson Yards, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "15HudsonYards",
+                "* cardPropertyName{Parameter}Url [fx]": "15%20Hudson%20Yards",
+                "* propertyID [fx]": "15 Hudson Yards {'property_identifier': 'recns5AAfRm8388Rb'}"
+            }
+        },
+        {
+            "id": "recI2F9d2pKwSlQVM",
+            "createdTime": "2023-09-01T02:10:45.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "East Village"
+                ],
+                "cardContactEmail !public": "info@14secondave.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "14 Second Avenue",
+                "cardContactAgency !public": [
+                    "Douglas Elliman"
+                ],
+                "cardPropertyWebsite": "14secondave.com",
+                "cardPropertyLocationAddress": "14 Second Avenue, New York, NY 10003",
+                "cardPropertyNeighborhood [fx]": "East Village, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "14SecondAvenue",
+                "* cardPropertyName{Parameter}Url [fx]": "14%20Second%20Avenue",
+                "* propertyID [fx]": "14 Second Avenue {'property_identifier': 'recI2F9d2pKwSlQVM'}"
+            }
+        },
+        {
+            "id": "recKGKhwrUgIVY0cC",
+            "createdTime": "2023-08-31T07:59:53.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Lincoln Square"
+                ],
+                "cardContactEmail !public": "info@200amsterdam.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "200 Amsterdam",
+                "cardContactAgency !public": [
+                    "Brown Harris Stevens"
+                ],
+                "cardPropertyWebsite": "200amsterdam.com",
+                "cardPropertyLocationAddress": "200 Amsterdam Avenue, New York, NY 10023",
+                "cardPropertyNeighborhood [fx]": "Lincoln Square, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "200Amsterdam",
+                "* cardPropertyName{Parameter}Url [fx]": "200%20Amsterdam",
+                "* propertyID [fx]": "200 Amsterdam {'property_identifier': 'recKGKhwrUgIVY0cC'}"
+            }
+        },
+        {
+            "id": "rec0qoTOJM85oeocV",
+            "createdTime": "2023-08-16T03:24:15.000Z",
+            "fields": {
+                "cardPropertyTagsNeighborhood": [
+                    "Financial District"
+                ],
+                "cardContactEmail !public": "inquiries@no33parkrow.com",
+                "cardPropertyTagsCity": [
+                    "Manhattan"
+                ],
+                "cardPropertyName": "No. 33 Park Row",
+                "cardContactAgency !public": [
+                    "Compass"
+                ],
+                "cardPropertyWebsite": "no33parkrow.com",
+                "cardPropertyLocationAddress": "33 Park Row, New York, NY 10038",
+                "cardPropertyNeighborhood [fx]": "Financial District, Manhattan",
+                "* cardPropertyName{Parameter}ID [fx]": "No.33ParkRow",
+                "* cardPropertyName{Parameter}Url [fx]": "No.%2033%20Park%20Row",
+                "* propertyID [fx]": "No. 33 Park Row {'property_identifier': 'rec0qoTOJM85oeocV'}"
+            }
+        }
+    ]
+}
