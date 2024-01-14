@@ -1,5 +1,120 @@
 /* ----- // START // ------ */
 
+/* ----- // start v3 (240114) // ------ */
+
+h1 {
+  margin-top: 0px !important;
+}
+
+.h1 {
+  margin-top: 0px !important;
+}
+
+.h1-v3-app {
+  font-family: var(--font3) !important;
+  padding-top: 15px;
+  padding-bottom: 20px !important;
+  color: var(--color-black) !important;
+  font-weight: 700 !important;
+  letter-spacing: -4px !important;
+  line-height: 1;
+}
+
+/* responsive font size (start) */
+@media screen and (min-width: 551px) {
+  .h1-v3-app {
+    font-size: 82px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .h1-v3-app {
+    font-size: 42px;
+  }
+}
+/* responsive font size (end) */
+
+.h2-v3-app {
+  font-family: var(--font4) !important;
+}
+
+.h3-v3-app {
+  font-family: var(--font2) !important;
+  padding: 20px;
+  color: var(--color-black) !important;
+}
+
+.h4-v3-app {
+  font-family: var(--font2) !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  color: var(--color-black) !important;
+  padding-bottom: 5px;
+}
+
+.p-v3-app {
+  font-family: var(--font2) !important;
+  color: var(--color-black) !important;
+}
+
+.a-v3-app {
+ font-family: var(--font2) !important;
+ color: var(--color1) !important;
+ font-weight: 700 !important;
+}
+
+.a-v3-app:hover {
+ font-family: var(--font2) !important;
+ color: #708bff !important;
+}
+
+.button-v3-app {
+  font-family: var(--font2) !important;
+  font-weight: 700 !important;
+  background-color: rgba(112,139,255, 0.3);
+  border: 0px solid #708bff;
+  border-radius: 100px;
+  color: var(--color1) !important;
+  padding: 15px 30px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+  box-shadow: 0 10px 20px -10px rgb(0 0 0 / 15%);
+}
+
+.button-outline-v3-app {
+  font-family: var(--font2) !important;
+  font-weight: 700 !important;
+  background-color: transparent;
+  border: 1px solid #708bff;
+  border-radius: 100px;
+  color: var(--color1) !important;
+  padding: 15px 30px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+}
+
+.button-link-v3-app {
+  font-family: var(--font2) !important;
+  font-weight: 700 !important;
+  background-color: transparent;
+  border-radius: 100px;
+  color: var(--color1) !important;
+  padding: 10px 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+}
+
+/* ----- // end v3 (240114) // ------ */
+
 .text-center {
   text-align: center !important;
 }
