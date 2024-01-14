@@ -1,0 +1,161 @@
+/* ----- // START // ------ */
+
+.div-indexes-pages {
+	margin-top: 0px !important;
+  	margin-bottom: 30px !important;
+  	margin-right: 3.5% !important;
+  	margin-left: 3.5% !important;
+}
+
+.box-card-div-white-indexes-pages {
+	box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+  	background-color: #ffffff;
+  	padding-top: 30px;
+ 	padding-bottom: 30px;
+  	padding-left: 15px;
+ 	padding-right: 15px;
+  	border-radius: 20px;
+  	margin-bottom: 10px;
+}
+
+.ccontainer-indexes-pages {
+	padding-right: 30px !important;
+  	padding-left:  30px !important;
+}
+
+.fixed-widget-upper-left-logo-indexes-pages {
+	position: fixed;
+    top: 15px;
+    left: 20px;
+    font-size: 24px;
+    background-color: var(--color1-pages) !important;
+    border-radius: 50%;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: var(--color-black-pages) !important;
+    font-family: var(--font1-pages);
+    font-weight: 700;
+    text-align: center;
+    border-radius: 100px;
+    letter-spacing: -1px;
+    box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+}
+
+.fixed-widget-upper-left-logo-indexes-pages:hover {
+    color: #ffffff !important;
+}
+
+.fixed-widget-upper-left-link-indexes-pages {
+    color: var(--color-black-pages) !important;
+}
+
+.fixed-widget-upper-left-link-indexes-pages:hover {
+    color: #ffffff !important;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.circles-nav-fixed-div-indexes-pages::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.circles-nav-fixed-div-indexes-pages {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.circles-nav-fixed-div-indexes-pages {
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+    overflow-x: hidden;
+    padding-top: 15px;
+    padding-left: 30px !important;
+    padding-right: 10px;
+}
+
+.circles-nav-fixed-div-indexes-pages a {
+    display: block;
+}
+
+.circles-nav-fixed-circle-indexes-pages {
+    background-color: var(--color1-pages) !important;
+    border-radius: 50%;
+    padding: 18px;
+    height: 60px;
+    width: 60px;
+    color: var(--color-black-pages) !important;
+    box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+    z-index: 3 !important;
+    margin-bottom: 5px !important;
+}
+
+.circles-nav-fixed-icon-indexes-pages {
+    font-size: 24px !important;
+    color: var(--color-black-pages) !important;
+    line-height: normal !important;
+    vertical-align: middle !important; 
+    text-align: center !important;
+}
+
+.circles-nav-fixed-icon-indexes-pages:hover {
+  color: #ffffff !important;
+}
+
+.circles-nav-fixed-icon-indexes-pages:hover a {
+  color:  #1f1f1f !important;
+}
+
+.button-link-indexes-pages {
+  font-family: var(--font2-pages);
+  font-weight: 700 !important;
+  background-color: transparent;
+  border-radius: 100px;
+  color: var(--color-black-pages) !important;
+  padding: 10px 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+}
+
+.button-link-indexes-pages:hover {
+  color: var(--color1-pages) !important;
+}
+
+.footer-p-indexes-pages {
+  font-family: var(--font2-pages) !important;
+  font-weight: 700 !important;
+  color: var(--color-black-pages) !important;
+  padding-top: 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+}
+
+.footer-a-indexes-pages {
+  font-family: var(--font2-pages) !important;
+  font-weight: 700 !important;
+  color: var(--color-black-pages) !important;
+  padding-top: 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important; 
+}
+
+.footer-a-indexes-pages:hover {
+  color: var(--color1-pages) !important;
+}
+
+/* ----- // END // ------ */
