@@ -1,0 +1,251 @@
+/* ----- // START // ------ */
+
+.text-center {
+  text-align: center !important;
+}
+
+.div-indexes {
+	margin-top: 0px !important;
+  	margin-bottom: 30px !important;
+  	margin-right: 3.5% !important;
+  	margin-left: 3.5% !important;
+}
+
+.box-card-div-white-indexes {
+	box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+  	background-color: #ffffff;
+  	padding-top: 30px;
+ 	padding-bottom: 30px;
+  	padding-left: 15px;
+ 	padding-right: 15px;
+  	border-radius: 20px;
+  	margin-bottom: 10px;
+}
+
+.container-indexes {
+	padding-right: 30px !important;
+  padding-left:  30px !important;
+}
+
+.fixed-widget-upper-left-logo-indexes a {
+  position: fixed;
+    top: 15px;
+    left: 20px;
+    font-size: 24px;
+    background-color: var(--color1) !important;
+    border-radius: 50%;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: var(--color-black) !important;
+    font-family: var(--font1);
+    font-weight: 100 !important;
+    text-align: center;
+    border-radius: 100px;
+    letter-spacing: 0px;
+    box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+}
+
+.fixed-widget-upper-left-logo-indexes:hover {
+    color: #ffffff !important;
+}
+
+.fixed-widget-upper-left-link-indexes {
+    color: var(--color-black) !important;
+}
+
+.fixed-widget-upper-left-link-indexes:hover {
+    color: #ffffff !important;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.circles-nav-fixed-div-indexes::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.circles-nav-fixed-div-indexes {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.circles-nav-fixed-div-indexes {
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+    overflow-x: hidden;
+    padding-top: 15px;
+    padding-left: 30px !important;
+    padding-right: 10px;
+}
+
+.circles-nav-fixed-div-indexes a {
+    display: block;
+}
+
+.circles-nav-fixed-circle-indexes {
+    background-color: var(--color1) !important;
+    border-radius: 50%;
+    padding: 18px;
+    height: 60px;
+    width: 60px;
+    color: var(--color-black) !important;
+    box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+    z-index: 3 !important;
+    margin-bottom: 5px !important;
+}
+
+.circles-nav-fixed-icon-indexes {
+    font-size: 24px !important;
+    color: var(--color-black) !important;
+    line-height: normal !important;
+    vertical-align: middle !important; 
+    text-align: center !important;
+}
+
+.circles-nav-fixed-icon-indexes:hover {
+  color: #ffffff !important;
+}
+
+.fixed-widget-lower-right-video-indexes {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 160px;
+    height: 160px;
+    box-shadow: 0px 10px 48px 8px rgb(0 0 0 / 5%), 0px 4px 12px 0px rgb(0 0 0 / 5%);
+    z-index: 3 !important;
+}
+
+.button-link-indexes {
+  font-family: var(--font2);
+  font-weight: 700 !important;
+  background-color: transparent;
+  border-radius: 100px;
+  color: var(--color-black) !important;
+  padding: 10px 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+}
+
+.button-link-indexes:hover {
+  color: var(--color1) !important;
+}
+
+.footer-p-indexes {
+  font-family: var(--font2) !important;
+  font-weight: 700 !important;
+  color: var(--color-black) !important;
+  padding-top: 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important;
+}
+
+.footer-a-indexes {
+  font-family: var(--font2) !important;
+  font-weight: 700 !important;
+  color: var(--color-black) !important;
+  padding-top: 30px;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px !important; 
+}
+
+.footer-a-indexes:hover {
+  color: var(--color1) !important;
+}
+
+body {
+  cursor: default !important;
+}
+
+a {
+  cursor: default !important;
+}
+
+/* (start) scrollbar for Chrome, Safari and Opera */
+
+::-webkit-scrollbar {
+  width: 15px !important;
+  cursor: default !important;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent !important;
+  cursor: default !important;
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-black) !important;
+  border-radius: 100px !important;
+  cursor: default !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-black) !important;
+  border-radius: 100px !important;
+  cursor: default !important;
+}
+
+/* (start) scrollbar for Chrome, Safari and Opera */
+
+/* (start) OFFCANVAS scrollbar for Chrome, Safari and Opera */
+
+.offcanvas-body::-webkit-scrollbar {
+  width: 15px !important;
+  cursor: default !important;
+}
+
+.offcanvas-body::-webkit-scrollbar-track {
+  background: transparent !important;
+  cursor: default !important;
+  margin-top: 25px !important;
+  margin-bottom: 25px !important;
+}
+
+.offcanvas-body::-webkit-scrollbar-thumb {
+  background: #f5f5f5 !important;
+  border-radius: 100px !important;
+  cursor: default !important;
+}
+
+.offcanvas-body::-webkit-scrollbar-thumb:hover {
+  background: var(--color-black) !important;
+  border-radius: 100px !important;
+  cursor: default !important;
+}
+
+/* (end) OFFCANVAS scrollbar for Chrome, Safari and Opera */
+
+
+/* (start) OFFCANVAS scrollbar for IE, Edge and Firefox */
+.offcanvas-body {
+  scrollbar-width: 10px !important;  /* Firefox */
+  scrollbar-color: var(--color-black) !important;
+  cursor: default !important;
+}
+
+/* (end) OFFCANVAS scrollbar for IE, Edge and Firefox */
+
+
+/* ----- // END // ------ */
